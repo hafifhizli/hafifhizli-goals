@@ -1,2 +1,2 @@
 # hafifhizli-goals
-Hal yang ingin dicapai tahun i ni
+things i want to accomplshethings i want to accomplish this year
