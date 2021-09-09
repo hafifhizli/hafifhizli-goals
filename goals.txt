@@ -2,3 +2,4 @@ Hafif Hizli
 - Menyelesaikan Portfolio, membeli domain dan hosting
 - Belajar Laravel
 - Belajar Bahasa Pemrograman Baru
+- Membuat Project
